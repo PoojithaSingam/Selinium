@@ -1,0 +1,11 @@
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\bin\Debug\netcoreapp2.2\SeleniumDemonstration.deps.json
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\bin\Debug\netcoreapp2.2\SeleniumDemonstration.runtimeconfig.json
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\bin\Debug\netcoreapp2.2\SeleniumDemonstration.runtimeconfig.dev.json
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\bin\Debug\netcoreapp2.2\SeleniumDemonstration.dll
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\bin\Debug\netcoreapp2.2\SeleniumDemonstration.pdb
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\obj\Debug\netcoreapp2.2\SeleniumDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\obj\Debug\netcoreapp2.2\SeleniumDemonstration.AssemblyInfoInputs.cache
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\obj\Debug\netcoreapp2.2\SeleniumDemonstration.AssemblyInfo.cs
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\obj\Debug\netcoreapp2.2\SeleniumDemonstration.dll
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\obj\Debug\netcoreapp2.2\SeleniumDemonstration.pdb
+C:\Users\S533705\source\repos\SeleniumDemonstration\SeleniumDemonstration\obj\Debug\netcoreapp2.2\SeleniumDemonstration.csprojAssemblyReference.cache
