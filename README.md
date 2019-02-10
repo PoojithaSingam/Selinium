@@ -8,7 +8,7 @@ Gangadhar Adusumalli
 
 Himabindu Poshala
 
-Poojitha Singham
+Poojitha Singam
 
 Gouthami Pasham
 
