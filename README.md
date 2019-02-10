@@ -1,4 +1,4 @@
-# Selinium
+# Adding automated integration testing with Selenium and CI
 
 # Team members
 
